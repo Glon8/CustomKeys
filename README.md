@@ -4,6 +4,7 @@ Works mainly on binds over keyboard or mouse.
 Check for key key_trigger field, to see what bind used.
 
 **GENERAL:**
+
 dist folder + dist.zip file has the run file for the script.
 
 **SETTINGS\CONFIG.txt:**
