@@ -27,9 +27,9 @@ stat - displays the state of the scripts.
    * lock - Shows if script is set, ll switch to ON as scripts works.
    * time - Will show time, till next moment it will fake again.
 4. Quick Insert - Presses the keys from the "quick insert text.txt" after key_action, as you use the bind(Used to push stuff in to games chat).
-5. Saves Snatcher - Looks for the "path_from" foldier and for any updates copies in to "path_to" foldier(Used to make copies of "Hardcore" games with saves delete).
+5. Saves Snatcher - Looks for the "path_from" folder and for any updates copies in to "path_to" folder(Used to make copies of "Hardcore" games with saves delete).
    * backup time - As script is ON, and there is NEW update, it ll display the last time update.
    * dir files - Amount files in the original directory.
-   * self replace - Copies files from backup to original foldier, if original miss files or deleted completley.
+   * self replace - Copies files from backup to original folder, if original miss files or deleted completley.
 
 
