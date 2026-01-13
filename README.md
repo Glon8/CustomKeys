@@ -22,7 +22,7 @@ stat - displays the state of the scripts.
    * mode - Swicthes between 20 clicks and infinte clicks(by default ON, if set on OFF, it wont wait for users signal).
    * mouse - Switches between LMB clicks and Keyboard clicks(by default OFF, check action key for keyboard clicks).
    * trigger - Displays if script got users signal or not.
-   * count - Counts clicks made by clicker, wont work as mode is OFF(infinite).
+   * count - Counts clicks made by clicker, wont work if mode is OFF(infinite).
 3. Smart AFK - Fakes yours presence in a game, if turned ON, ll press random keys on W,A,S,D every few minutes.
    * lock - Shows if script is set, ll switch to ON as scripts works.
    * time - Will show time, till next moment it will fake again.
