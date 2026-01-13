@@ -7,9 +7,8 @@ Check for key key_trigger field, to see what bind used.
 dist folder + dist.zip file has the run file for the script.
 
 **SETTINGS\CONFIG.txt:**
-========================================
 **TO ADJUST CONFIG.TXT USE JSON SYNTAX**
-========================================
+
 Adjust to yours needs: 0 = OFF \ 1 = ON
 stat - displays the state of the scripts.
 
