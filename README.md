@@ -12,6 +12,7 @@ dist folder + dist.zip file has the run file for the script.
 **TO ADJUST CONFIG.TXT USE JSON SYNTAX**
 
 Adjust to yours needs: 0 = OFF \ 1 = ON
+
 stat - displays the state of the scripts.
 
 0. General - general settings.
