@@ -30,6 +30,6 @@ stat - displays the state of the scripts.
 5. Saves Snatcher - Looks for the "path_from" folder and for any updates copies in to "path_to" folder(Used to make copies of "Hardcore" games with saves delete).
    * backup time - As script is ON, and there is NEW update, it ll display the last time update.
    * dir files - Amount files in the original directory.
-   * self replace - Copies files from backup to original folder, if original miss files or deleted completley.
+   * self replace - If ON, copies files from backup to original folder, if original miss files or deleted completley.
 
 
