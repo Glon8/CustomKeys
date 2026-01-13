@@ -1,9 +1,10 @@
 # CustomKeys
 Scripts for games, written on python and its libraries.
 Works mainly on binds over keyboard or mouse.
-Check for key key_trigger field, to see what bind used.
 
 **GENERAL:**
+
+Check for key key_trigger field, to see what bind used.
 
 dist folder + dist.zip file has the run file for the script.
 
