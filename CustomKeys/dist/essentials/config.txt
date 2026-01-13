@@ -1,0 +1,37 @@
+[
+  {
+    "name": "General",
+    "note": "display is ether 'emoji' or 'plain'",
+    "display": "plain"
+  },
+  {
+    "name": "Kill Switch",
+    "key_trigger": "c+0",
+    "key_action": "None"
+  },
+  {
+    "name": "Auto Click Clip",
+    "key_trigger": "c+1",
+    "key_action": "v",
+    "mode": 1,
+    "mouse": 0
+  },
+  {
+    "name": "Smart AFK",
+    "key_trigger": "c+2",
+    "key_action": "None"
+  },
+  {
+    "name": "Quick Insert",
+    "key_trigger": "c+3",
+    "key_action": "t"
+  },
+  {
+    "name": "Saves Snatcher",
+    "key_trigger": "c+4",
+    "key_action": "None",
+    "path_from": "C:\\Users\\User\\Desktop\\Test",
+    "path_to": "essentials\\snatched files",
+    "self_replace": 1
+  }
+]
