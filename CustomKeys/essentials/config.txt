@@ -1,6 +1,7 @@
 [
   {
     "name": "General",
+    "note": "display is ether 'emoji' or 'plain'",
     "display": "plain"
   },
   {

@@ -30,7 +30,7 @@
     "name": "Saves Snatcher",
     "key_trigger": "c+4",
     "key_action": "None",
-    "path_from": "C:\\Users\\User\\Desktop\\Test",
+    "path_from": "C:\\Users\\Desktop\\Test",
     "path_to": "essentials\\snatched files",
     "self_replace": 1
   }
