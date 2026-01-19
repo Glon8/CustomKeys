@@ -29,7 +29,7 @@ stat - displays the state of the scripts.
    * time - Will show time, till next moment it will fake again.
 4. Quick Insert - Presses the keys from the "quick insert text.txt" after key_action, as you use the bind(Used to push stuff in to games chat).
 5. Saves Snatcher - Looks for the "path_from" folder and for any updates copies in to "path_to" folder(Used to make copies of "Hardcore" games with saves delete).
-   * backup time - As script is ON, and there is NEW update, it ll display the last time update.
+   * backup time - It ll display the date of the last update(for the backup files that you HAVE).
    * dir files - Amount files in the original directory.
    * self replace - If ON, copies files from backup to original folder, if original miss files or deleted completley.
 
