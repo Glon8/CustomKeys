@@ -341,7 +341,8 @@ def snt_switch():
                 # edited destination
                 dst_path = os.path.join(snt['path_to'], dst_name);
                 # recover backup specks
-                snt['backup_time'] = dir_mtime(dst_path);
+                mtime = dir_mtime(dst_path);
+                snt['backup_time'] = mtime if mtime != 0 else -1;
                 snt['dir_files'] = files_count(dst_path);
 
         render();
